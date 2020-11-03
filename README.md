@@ -24,7 +24,7 @@ Temple Guards was my choice for Mazdamundi, Hunting Pack units are supposed to i
   * Salamander Hunting Pack
     * Improve Explosion Damage and Enable AP Projectile
   * Razordon Hunting Pack
-    * Increase Anti-large bonus for Projectile and Enable AP Projectile
+    * +16 projectile Anti-large bonus
 
 # Gor-Rok
 Saurus Warriors are more than capable even in the late game, their problem lies in their utility. Melee Infantry tends to take heavy casualty from enemy missiles and spells, which is the reason I gave them "Shield of Quetzl" (Yeah F U Skaven Weapon Teams), the minus in melee attack will hopefully stop players from spamming this ability off cooldown. The reason I gave them "Apex Predator" is I had battles where my saurus units chase behind enemy missile units for like 10 minutes, I can't catch them and they can't do any damage to me. "Apex Predator" should be able to help them run down enemies that are fleeing from them.
