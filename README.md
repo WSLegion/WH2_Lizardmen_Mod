@@ -17,6 +17,7 @@ Temple Guards was my choice for Mazdamundi, Hunting Pack units are supposed to i
     * +10 Melee Defence
     * +15% Physical Resistance
     * +30% Fire Resistance
+    * Enable "Cold Blooded Discipline" (+15% Ward Save, +10 Melee Defence, 20s Duration, 120s CD)
   * Hunting Pack Units
     * +20% Range
     * Enable Stalk
@@ -57,6 +58,7 @@ Kroq-Gar got Cold Ones since he himself has a fast mount unlike Gor-Rok. I perso
     * +20 Charge Bonus
     * Enable Strider
     * Enable "Cold Blooded" Ability
+    * Enable "Last Defender" Ability (+30 Ward Save if HP < 50%, passive)
 
 # Tehenhauin
 Skinks are still squishy, but they can now isolate enemy units with the help from "Snare of Sotek" and deal massive amount of damage to them. Chameleon Skinks are also very good at sneaking through the battle field and destory enemy artillery units.
@@ -105,6 +107,7 @@ Kroxigors are actually pretty decent, gave them a bit more to match the power of
     * +10% Ward Save
     * +10 Melee Defence
     * Enable Sundering Attack
+    * Enable "Death Can Wait" (Prevents Entities from dying, 20s Duration, 80s CD)
 
 # Tiktaq'to
 All 3 Stages will make Tiktaq'to's whole army to become Unbreakable so a pure air unit army is possible. (Without this effect you just have to bring a stalking Stegadon, which makes no sense at all)
